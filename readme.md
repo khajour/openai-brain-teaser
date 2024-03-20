@@ -6,6 +6,8 @@ This repository shows how to create an open AI service Python application to res
 This exemple uses OpenAI Azure service, Azure Text to speech 
 
 
+## Prerequisites
+You need to create an Azure OpenAI service deployment with GPT-4 model and create an Azure Speech service first. This resources are used in the following Jupiter setup
 
 ## Install and test
 
@@ -25,5 +27,12 @@ $ set AZURE_SPEECH_KEY="******************"
 
 $ jupyter lab
 ```
+
+## Output
+
+If you choose the first prompt you will get somthing like the following picture:
+
+![](./res/output-parking.png)
+
 
 Please feel free to share any feedback.
