@@ -7,11 +7,11 @@ This example is inspired by Microsoft documentation that you can find here
 
 Learn how to work with the GPT-35-Turbo and GPT-4 models [GPT-4 and GPT-35-Turbo](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chatgpt?tabs=python&pivots=programming-language-chat-completions)
 
+How to deploy Mistral models with Azure AI Studio [Mistral  Model](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral)
+
 Deploy a web app for chat on your data with Azure AI Studio [Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
 
 What is Responsible AI? [Responsible AI Principles](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
-
-
 
 ## Prerequisites
 You need to create an Azure OpenAI service deployment with GPT-4 model and create an Azure Speech service first. This resources are used in the following Jupiter setup
