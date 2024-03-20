@@ -21,7 +21,7 @@ $ set AZURE_OPENAI_KEY="**********************"
 $ set AZURE_OPENAI_ENDPOINT="******************"
 $ set AZURE_SPEECH_KEY="******************"
 
-# Update PROMPT_NUMBER = 1  // line in the jupyter note book  add you own prompt
+# Update PROMPT_NUMBER = 1  // update the line in the jupyter note book or add you own prompt
 
 $ jupyter lab
 ```
